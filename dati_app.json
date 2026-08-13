@@ -524,6 +524,21 @@
       "data": "2026-08-05T18:44:59.141Z",
       "upvotes": 0,
       "stato_risoluzione": 0
+    },
+    {
+      "id": 36,
+      "categoria": "Buche e Manto Stradale",
+      "descrizione": "Buca appena coperta con asfalto si e riaperta . Scorre acqua sottostante.",
+      "latitudine": "38.173769",
+      "longitudine": "15.200109",
+      "indirizzo": "Via S. Rocco, 83, 98051 Barcellona Pozzo di Gotto ME, Italy",
+      "linkFoto": "https://drive.google.com/file/d/1FyFBKYgwH6GPAxveRDrG8MC7qt9oNcOH/view?usp=drivesdk",
+      "foto": "https://drive.google.com/file/d/1FyFBKYgwH6GPAxveRDrG8MC7qt9oNcOH/view?usp=drivesdk",
+      "stato": "In attesa di essere comunicata all'Urp",
+      "dataOra": "2026-08-13T09:22:28.686Z",
+      "data": "2026-08-13T09:22:28.686Z",
+      "upvotes": 0,
+      "stato_risoluzione": 0
     }
   ],
   "news": [
@@ -602,11 +617,11 @@
   ],
   "sponsor": [],
   "statistiche": {
-    "totale": 35,
+    "totale": 36,
     "risolte": 4,
-    "inAttesa": 31,
+    "inAttesa": 32,
     "categorie": {
-      "Buche e Manto Stradale": 10,
+      "Buche e Manto Stradale": 11,
       "Impianto idrico": 8,
       "Illuminazione Pubblica": 11,
       "Verde Pubblico": 1,
