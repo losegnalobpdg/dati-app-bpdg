@@ -279,7 +279,7 @@
       "indirizzo": "Stretto I Bartolella, 96, 98051 Barcellona Pozzo di Gotto ME",
       "linkFoto": "https://drive.google.com/file/d/1f5PNmnly1yeUVI9tZYJKBQ7SLNDhMWnH/view?usp=drivesdk",
       "foto": "https://drive.google.com/file/d/1f5PNmnly1yeUVI9tZYJKBQ7SLNDhMWnH/view?usp=drivesdk",
-      "stato": "Ricevuta dall'URP prot. 2056 del 14/07/26",
+      "stato": "RISOLTO",
       "dataOra": "2026-07-14T09:38:00.153Z",
       "data": "2026-07-14T09:38:00.153Z",
       "upvotes": 0,
@@ -618,8 +618,8 @@
   "sponsor": [],
   "statistiche": {
     "totale": 36,
-    "risolte": 4,
-    "inAttesa": 32,
+    "risolte": 5,
+    "inAttesa": 31,
     "categorie": {
       "Buche e Manto Stradale": 11,
       "Impianto idrico": 8,
