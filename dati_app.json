@@ -539,6 +539,21 @@
       "data": "2026-08-13T09:22:28.686Z",
       "upvotes": 0,
       "stato_risoluzione": 0
+    },
+    {
+      "id": 37,
+      "categoria": "Verde pubblico",
+      "descrizione": "albero non potato da diverso tempo. via Roma 112-114",
+      "latitudine": "38.1460136",
+      "longitudine": "15.2149159",
+      "indirizzo": "Via Roma 112-114 Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia",
+      "linkFoto": "https://drive.google.com/file/d/1DaE8yEbxansMRjYN6lZNNP_CFbAHULDj/view?usp=drivesdk",
+      "foto": "https://drive.google.com/file/d/1DaE8yEbxansMRjYN6lZNNP_CFbAHULDj/view?usp=drivesdk",
+      "stato": "IN ATTESA",
+      "dataOra": "14/08/2026 09:53:04",
+      "data": "14/08/2026 09:53:04",
+      "upvotes": 0,
+      "stato_risoluzione": 0
     }
   ],
   "news": [
@@ -625,14 +640,14 @@
   ],
   "sponsor": [],
   "statistiche": {
-    "totale": 36,
+    "totale": 37,
     "risolte": 5,
-    "inAttesa": 31,
+    "inAttesa": 32,
     "categorie": {
       "Buche e Manto Stradale": 11,
       "Impianto idrico": 8,
       "Illuminazione Pubblica": 11,
-      "Verde Pubblico": 1,
+      "Verde Pubblico": 2,
       "Rifiuti e Decoro Urbano": 5,
       "Segnaletica": 0,
       "Altro": 0
