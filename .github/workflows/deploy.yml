@@ -9,9 +9,10 @@ permissions:
   pages: write
   id-token: write
 
+# Impostato a false per evitare di interrompere l'API di GitHub Pages a metà deploy
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 env:
   NODE_TLS_REJECT_UNAUTHORIZED: '0'
