@@ -554,6 +554,21 @@
       "data": "14/08/2026 09:53:04",
       "upvotes": 0,
       "stato_risoluzione": 0
+    },
+    {
+      "id": 38,
+      "categoria": "Verde pubblico",
+      "descrizione": "Sul marciapiede di via enna all'altezza del civico 28 ci sono rami che arrivano fino alla corsia delle auto, impossibilitando il passaggio a piedi. In allegato le foto",
+      "latitudine": "38.1675057",
+      "longitudine": "15.239332",
+      "indirizzo": "Via Enna, 28, 98051 Barcellona Pozzo di Gotto ME, Italy",
+      "linkFoto": "https://drive.google.com/file/d/1uLXPIUjlVgP32srDoRn96eRwEfOUDH0F/view?usp=drivesdk",
+      "foto": "https://drive.google.com/file/d/1uLXPIUjlVgP32srDoRn96eRwEfOUDH0F/view?usp=drivesdk",
+      "stato": "IN ATTESA",
+      "dataOra": "2026-08-16T13:18:21.551Z",
+      "data": "2026-08-16T13:18:21.551Z",
+      "upvotes": 0,
+      "stato_risoluzione": 0
     }
   ],
   "news": [
@@ -640,14 +655,14 @@
   ],
   "sponsor": [],
   "statistiche": {
-    "totale": 37,
+    "totale": 38,
     "risolte": 5,
-    "inAttesa": 32,
+    "inAttesa": 33,
     "categorie": {
       "Buche e Manto Stradale": 11,
       "Impianto idrico": 8,
       "Illuminazione Pubblica": 11,
-      "Verde Pubblico": 2,
+      "Verde Pubblico": 3,
       "Rifiuti e Decoro Urbano": 5,
       "Segnaletica": 0,
       "Altro": 0
