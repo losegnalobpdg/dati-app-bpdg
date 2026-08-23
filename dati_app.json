@@ -144,7 +144,7 @@
       "indirizzo": "Via Cairoli, 51, 98051 Barcellona Pozzo di Gotto ME, Italy",
       "linkFoto": "https://drive.google.com/file/d/1ohEwfBDkd9pcsXfwjCrnuLMBNlxdrEx-/view?usp=drive_link",
       "foto": "https://drive.google.com/file/d/1ohEwfBDkd9pcsXfwjCrnuLMBNlxdrEx-/view?usp=drive_link",
-      "stato": "Ricevuta dall'URP prot. 1944 del 08/07/26",
+      "stato": "RISOLTO",
       "dataOra": "2026-07-04T17:27:07.269Z",
       "data": "2026-07-04T17:27:07.269Z",
       "upvotes": 0,
@@ -584,6 +584,21 @@
       "data": "2026-08-19T13:18:22.000Z",
       "upvotes": 0,
       "stato_risoluzione": 0
+    },
+    {
+      "id": 40,
+      "categoria": "Illuminazione Pubblica",
+      "descrizione": "Lampione non funzionante.  Luce intermittente e rumori di elettricità",
+      "latitudine": "38.1747014",
+      "longitudine": "15.199794",
+      "indirizzo": "Via Cicerata, 25, 98051 Barcellona Pozzo di Gotto ME, Italy",
+      "linkFoto": "https://drive.google.com/file/d/1E206H1J-E5otzrzLpA35fczHFEq2Cp8B/view?usp=drivesdk",
+      "foto": "https://drive.google.com/file/d/1E206H1J-E5otzrzLpA35fczHFEq2Cp8B/view?usp=drivesdk",
+      "stato": "IN ATTESA",
+      "dataOra": "2026-08-23T09:56:52.708Z",
+      "data": "2026-08-23T09:56:52.708Z",
+      "upvotes": 0,
+      "stato_risoluzione": 0
     }
   ],
   "news": [
@@ -670,13 +685,13 @@
   ],
   "sponsor": [],
   "statistiche": {
-    "totale": 39,
-    "risolte": 5,
+    "totale": 40,
+    "risolte": 6,
     "inAttesa": 34,
     "categorie": {
       "Buche e Manto Stradale": 12,
       "Impianto idrico": 8,
-      "Illuminazione Pubblica": 11,
+      "Illuminazione Pubblica": 12,
       "Verde Pubblico": 3,
       "Rifiuti e Decoro Urbano": 5,
       "Segnaletica": 0,
