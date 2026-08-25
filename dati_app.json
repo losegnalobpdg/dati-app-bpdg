@@ -614,6 +614,21 @@
       "data": "2026-08-24T19:29:26.204Z",
       "upvotes": 0,
       "stato_risoluzione": 0
+    },
+    {
+      "id": 42,
+      "categoria": "Buche e Manto Stradale",
+      "descrizione": "Da oltre 2mesi perdita di azqua in via ponte califi 19/4 segnalato più volte non possiamo parcheggiare le macchine nel condominio che si rovinano ",
+      "latitudine": "38.1749371",
+      "longitudine": "15.209877",
+      "indirizzo": "Stretto Califi, 46, 98051 Barcellona Pozzo di Gotto ME, Italy",
+      "linkFoto": "https://drive.google.com/file/d/1Z-ccNmK27v5asqPBwFxr-GAte5Clb2PG/view?usp=drivesdk",
+      "foto": "https://drive.google.com/file/d/1Z-ccNmK27v5asqPBwFxr-GAte5Clb2PG/view?usp=drivesdk",
+      "stato": "IN ATTESA",
+      "dataOra": "2026-08-25T16:32:15.917Z",
+      "data": "2026-08-25T16:32:15.917Z",
+      "upvotes": 0,
+      "stato_risoluzione": 0
     }
   ],
   "news": [
@@ -700,11 +715,11 @@
   ],
   "sponsor": [],
   "statistiche": {
-    "totale": 41,
+    "totale": 42,
     "risolte": 6,
-    "inAttesa": 35,
+    "inAttesa": 36,
     "categorie": {
-      "Buche e Manto Stradale": 13,
+      "Buche e Manto Stradale": 14,
       "Impianto idrico": 8,
       "Illuminazione Pubblica": 12,
       "Verde Pubblico": 3,
