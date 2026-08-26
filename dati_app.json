@@ -629,6 +629,21 @@
       "data": "2026-08-25T16:32:15.917Z",
       "upvotes": 0,
       "stato_risoluzione": 0
+    },
+    {
+      "id": 43,
+      "categoria": "Rifiuti e decoro urbano",
+      "descrizione": "Rifiuti abbandonati",
+      "latitudine": "38.1585941",
+      "longitudine": "15.2427650",
+      "indirizzo": "Via Carrara, Manno, Oreto, Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia",
+      "linkFoto": "https://drive.google.com/file/d/1mkzdDSlsB8f3RPeoc6CvFUoiSE8Vh6a-/view?usp=drivesdk",
+      "foto": "https://drive.google.com/file/d/1mkzdDSlsB8f3RPeoc6CvFUoiSE8Vh6a-/view?usp=drivesdk",
+      "stato": "In attesa di essere segnalata all'urp",
+      "dataOra": "26/08/2026 10:07:14",
+      "data": "26/08/2026 10:07:14",
+      "upvotes": 0,
+      "stato_risoluzione": 0
     }
   ],
   "news": [
@@ -715,15 +730,15 @@
   ],
   "sponsor": [],
   "statistiche": {
-    "totale": 42,
+    "totale": 43,
     "risolte": 6,
-    "inAttesa": 36,
+    "inAttesa": 37,
     "categorie": {
       "Buche e Manto Stradale": 14,
       "Impianto idrico": 8,
       "Illuminazione Pubblica": 12,
       "Verde Pubblico": 3,
-      "Rifiuti e Decoro Urbano": 5,
+      "Rifiuti e Decoro Urbano": 6,
       "Segnaletica": 0,
       "Altro": 0
     }
